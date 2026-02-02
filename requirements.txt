@@ -3,3 +3,6 @@ numpy==2.0.2
 networkx==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyterlab==4.2.5
